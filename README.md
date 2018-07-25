@@ -26,3 +26,10 @@ they probably don't care because lots of money was scammed with it
 
 **Download link:** 
 https://www.dropbox.com/s/03qs7pwt3kcldve/p0lybot.exe?dl=1
+
+
+Backup:
+
+https://share.dmca.gripe/hO8QR2Db36V11oqK
+
+(add ".exe" at the end of file)
