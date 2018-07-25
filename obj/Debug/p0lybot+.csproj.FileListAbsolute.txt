@@ -1,6 +1,0 @@
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\bin\Debug\p0lybot+.exe.config
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\bin\Debug\p0lybot+.exe
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\bin\Debug\p0lybot+.pdb
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\obj\Debug\p0lybot+.csprojResolveAssemblyReference.cache
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\obj\Debug\p0lybot+.exe
-C:\Users\Joshua\Desktop\Apollo\Projects\p0lybot+\p0lybot+\obj\Debug\p0lybot+.pdb
